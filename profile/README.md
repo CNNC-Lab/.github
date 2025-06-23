@@ -1,7 +1,7 @@
 # Computational Neuroscience & Neural Computation (CNNC) Lab
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cnnc-lab/.github/main/profile/assets/cnnc_logo.png" alt="CNNC Lab Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/cnnc-lab/.github/profile/assets/cnnc_logo.png" alt="CNNC Lab Logo" width="200"/>
   <br>
   <i>Understanding how the brain computes the mind</i>
   <br><br>
