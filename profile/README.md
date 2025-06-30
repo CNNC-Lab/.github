@@ -1,7 +1,7 @@
 # Computational Neuroscience & Neural Computation (CNNC) Lab
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cnnc-lab/.github/main/profile/assets/cnnc_logo.png" alt="CNNC Lab Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/cnnc-lab/.github/profile/assets/cnnc_logo.png" alt="CNNC Lab Logo" width="200"/> 
   <br>
   <i>Understanding how the brain computes the mind</i>
   <br><br>
@@ -13,9 +13,15 @@
 
 ## About Us
 
-More than a research lab, we are a scientific community aiming to understand how the brain computes the mind. We conduct theoretical and computational research on the biophysical bases of cognition and behavior at the [Center for Neuroscience and Cell Biology, University of Coimbra](https://www.cnc.uc.pt/).
+More than a research lab, we are a scientific community aiming to understand *how the brain computes the mind*. We conduct theoretical and computational research on the biophysical bases of cognition and behavior. We are currently seeded at the [Center for Neuroscience and Cell Biology](https://www.cnc.uc.pt/), [University of Coimbra](https://www.uc.pt/), Portugal.
 
-Our research combines mathematical modeling, computational simulations, and theoretical analysis to explore neural dynamics, synaptic plasticity, and cognitive processing through spiking neural networks.
+Our research combines mathematical modeling, numerical simulations, and theoretical analysis to explore neural dynamics, synaptic and cellular plasticity, and cognitive processing in biophysical spiking networks.
+
+
+## Software Libraries and Research Utilities
+
+
+
 
 ## Research Projects
 
