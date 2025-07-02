@@ -51,7 +51,7 @@ Visit our [website](https://www.comp-neuro.org/) to learn more about our researc
 </tr>
 </table>
 
-### CoNiC Initiative (🚧 Work in Progress)
+## CoNiC Initiative (🚧 Work in Progress)
 
 <div align="center">
   <img src="https://github.com/conic-lab.png" alt="CoNiC Initiative Logo" width="300"/>
