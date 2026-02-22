@@ -38,26 +38,20 @@ Visit our [website](https://www.comp-neuro.org/) to learn more about our researc
     </a>
   </td>
   <td width="50%" align="center">
-    <img src="https://opengraph.githubassets.com/1/rcfduarte/func-neurarch" alt="FNA" width="250"><br>
     <h3>FNA: Functional Neural Architectures</h3>
     <p>A Python framework for designing, simulating and analyzing functional neural architectures.</p>
-    <a href="https://github.com/rcfduarte/func-neurarch" target="_blank">GitHub Repository</a> &middot;
-    <a href="https://doi.org/10.5281/zenodo.5648150" target="_blank">Zenodo DOI</a>
+    <a href="https://doi.org/10.5281/zenodo.5648150" target="_blank">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5648150.svg" alt="DOI">
+    </a>
   </td>
+</tr>
+<tr>
   <td width="50%" align="center">
     <img src="https://opengraph.githubassets.com/1/rcfduarte/nmsat" alt="NMSAT" width="250"><br>
     <h3>NMSAT: Neural Microcircuit Simulation and Analysis Toolkit</h3>
     <p>A toolkit for simulation and analysis of neural microcircuits.</p>
     <a href="https://github.com/rcfduarte/nmsat" target="_blank">GitHub Repository</a> &middot;
     <a href="https://doi.org/10.5281/zenodo.594850" target="_blank">Zenodo DOI</a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" align="center">
-    <img src="https://opengraph.githubassets.com/1/CNNC-Lab/cellfit" alt="CellFit" width="250"><br>
-    <h3>CellFit</h3>
-    <p>A framework for electrophysiological model fitting and optimization across diverse cellular systems using modern differentiable simulation tools.</p>
-    <a href="https://github.com/CNNC-Lab/cellfit" target="_blank">GitHub Repository</a>
   </td>
   <td width="50%" align="center">
     <img src="https://opengraph.githubassets.com/1/weidel-p/ros_music_adapter" alt="ROS-MUSIC Adapter" width="250"><br>
@@ -83,22 +77,10 @@ For a complete list of our research projects, visit our [resources page](https:/
 <table>
 <tr>
   <td width="33%" align="center">
-    <h3>HetSyn</h3>
-    <p>Learning via compartmentalized electrochemical adaptation: research on heterosynaptic plasticity and its computational implications.</p>
-    <a href="https://github.com/CNNC-Lab/hetsyn" target="_blank">GitHub Repository</a>
-  </td>
-  <td width="33%" align="center">
-    <h3>Behavioral Syntax</h3>
-    <p>Syntactic analysis of behavioral ethograms from different animal species performing different behaviors across a range of complexities.</p>
-    <a href="https://github.com/CNNC-Lab/behavioral_syntax" target="_blank">GitHub Repository</a>
-  </td>
-  <td width="33%" align="center">
     <h3>Signal Denoising Through Topographic Modularity</h3>
     <p>Research on signal denoising using topographic modularity in neural circuits.</p>
     <a href="https://zenodo.org/records/6326497" target="_blank">Zenodo Record</a>
   </td>
-</tr>
-<tr>
   <td width="33%" align="center">
     <h3>Reproducible Models of Sequence Learning</h3>
     <p>Research towards creating reproducible models of sequence learning in neural networks.</p>
@@ -109,22 +91,17 @@ For a complete list of our research projects, visit our [resources page](https:/
     <p>Study of heterogeneity in layer 2/3 circuit models of neural networks.</p>
     <a href="https://osf.io/eqz7t/" target="_blank">OSF Repository</a>
   </td>
+</tr>
+<tr>
   <td width="33%" align="center">
     <h3>Encoding and Decoding Symbolic Sequences</h3>
     <p>Research on encoding and decoding symbolic sequences in spiking neural reservoirs.</p>
     <a href="https://gitlab.com/rcfduarte/encodingdecoding" target="_blank">GitLab Repository</a>
   </td>
-</tr>
-<tr>
   <td width="33%" align="center">
     <h3>Artificial Grammar Learning</h3>
     <p>Study of artificial grammar learning in binary balanced networks.</p>
     <a href="https://gitlab.com/rcfduarte/agl_cogsci2014.git" target="_blank">GitLab Repository</a>
-  </td>
-  <td width="33%" align="center">
-    <h3>Long COVID Analysis</h3>
-    <p>Data analysis for long COVID research.</p>
-    <a href="https://github.com/CNNC-Lab/long-covid-analysis" target="_blank">GitHub Repository</a>
   </td>
   <td width="33%"></td>
 </tr>
